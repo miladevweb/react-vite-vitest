@@ -54,7 +54,7 @@ export default defineConfig({
 })
 ```
 
-    This setup will add an alias and a setup file for our project environment.
+This setup will add an alias and a setup file for our project environment.
 
 <br>
 
